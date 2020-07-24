@@ -7,3 +7,5 @@ Welcome! This app displays a heatmap of my course discussion data fetched from C
 Make sure "npm install" is ran first</br>
 1. navigate to /frontend and run: npm start</br>
 2. navigate to /backend and run: npm start</br>
+
+Note: npm start must be run on both 
