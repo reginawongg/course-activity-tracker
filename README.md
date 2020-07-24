@@ -4,8 +4,6 @@
 Welcome! This app displays a heatmap of my course discussion data fetched from CanvasAPI</br>
 
 <h1>Instructions</h1>
-Make sure "npm install"</br>
-<h2>Frontend</h2>
-* navigate to /frontend and run: npm start</br>
-<h2>Backend</h2>
-* navigate to /backend and run: npm start</br>
+Make sure "npm install" is ran first</br>
+1. navigate to /frontend and run: npm start</br>
+2. navigate to /backend and run: npm start</br>
