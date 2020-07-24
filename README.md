@@ -1,9 +1,11 @@
-# course-activity-tracker
+# Course Discussion Tracker
 
-<h1>Description</h1>
-This displays a heatmap of my course discussion data fetched from CanvasAPI</br>
+<h1>Introduction</h1>
+Welcome! This app displays a heatmap of my course discussion data fetched from CanvasAPI</br>
 
-<h1>Instructions</h1></br>
+<h1>Instructions</h1>
 Make sure "npm install"</br>
-1. navigate to /backend and run: npm start</br>
-2. navigate to /frontend and run: npm start</br>
+<h2>Frontend</h2>
+* navigate to /frontend and run: npm start</br>
+<h2>Backend</h2>
+* navigate to /backend and run: npm start</br>
