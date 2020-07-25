@@ -9,10 +9,10 @@ Welcome! This app can display a heatmap of your course discussion data fetched f
 
 Make sure  `npm install`  is ran first and installed
 
-* <h4>Frontend:</h4> 
+* <h3>Frontend:</h3> 
 1. navigate to `/frontend` and run: `npm start` on terminal </br>
 
-* <h4>Backend:</h4> 
+* <h3>Backend:</h3> 
 1. Navigate to the `/backend` folder
 2. Create an `.env` file inside and copy and paste the following code into it: 
 ```
