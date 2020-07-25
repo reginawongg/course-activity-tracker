@@ -1,7 +1,7 @@
 # Course Discussion Tracker
 
 <h1>Introduction</h1>
-Welcome! This app can display a heatmap of your course discussion data fetched from Canvas. The following is just a sample of what one of my courses looks like.</br>
+Welcome! This app can display a heatmap of your course discussion data fetched from Canvas. The following is just a sample of what one of my courses looks like. The next steps will be to work with styling and deploy it onto Netifly</br>
 
 ![Image of Heatmap](https://github.com/reginawongg/course-activity-tracker/blob/master/demo.png)
 
