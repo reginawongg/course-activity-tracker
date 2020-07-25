@@ -6,11 +6,13 @@ Welcome! This app can display a heatmap of your course discussion data fetched f
 ![Image of Heatmap](https://github.com/reginawongg/course-activity-tracker/blob/master/demo.png)
 
 <h1>Instructions</h1>
-Make sure  `npm install`  is ran first and installed</br>
-* Frontend: 
+
+Make sure  `npm install`  is ran first and installed
+
+* <h4>Frontend:</h4> 
 1. navigate to `/frontend` and run: `npm start` on terminal </br>
 
-* Backend: 
+* <h4>Backend:</h4> 
 1. Navigate to the `/backend` folder
 2. Create an `.env` file inside and copy and paste the following code into it: 
 ```
