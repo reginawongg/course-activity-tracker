@@ -6,9 +6,13 @@ Welcome! This app displays a heatmap of my course discussion data fetched from C
 ![Image of Heatmap](https://github.com/reginawongg/course-activity-tracker/blob/master/demo.png)
 
 <h1>Instructions</h1>
-Make sure "npm install" is ran first</br>
-1. navigate to /frontend and run: npm start</br>
-2. navigate to /backend and run: npm start</br>
+Make sure  `<npm install>`  is ran first</br>
+* Frontend: 
+navigate to /frontend and run: `<npm start>` </br>
+* Backend: 
+1.
+2. navigate to /backend and run: `<npm start>` t</br>
+3. 
 
 Note: npm start must be run on both 
 
