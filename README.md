@@ -7,7 +7,7 @@ Welcome! This app can display a heatmap of your course discussion data fetched f
 
 <h1>Instructions</h1>
 
-Make sure  `npm install`  is ran first and installed
+Make sure `npm install` is ran first and installed
 
 <h3>Frontend:</h3>
 1. navigate to `/frontend` and run: `npm start` on terminal </br>
