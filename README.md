@@ -1,12 +1,12 @@
 # Course Discussion Tracker
 
 <h1>Introduction</h1>
-Welcome! This app displays a heatmap of my course discussion data fetched from CanvasAPI. The following is just a sample of what one of my courses looks like.</br>
+Welcome! This app can display a heatmap of your course discussion data fetched from Canvas. The following is just a sample of what one of my courses looks like.</br>
 
 ![Image of Heatmap](https://github.com/reginawongg/course-activity-tracker/blob/master/demo.png)
 
 <h1>Instructions</h1>
-Make sure  `<npm install>`  is ran first</br>
+Make sure  `npm install`  is ran first and installed</br>
 * Frontend: 
 1. navigate to `/frontend` and run: `npm start` on terminal </br>
 
