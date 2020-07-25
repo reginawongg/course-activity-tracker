@@ -8,11 +8,17 @@ Welcome! This app displays a heatmap of my course discussion data fetched from C
 <h1>Instructions</h1>
 Make sure  `<npm install>`  is ran first</br>
 * Frontend: 
-navigate to /frontend and run: `<npm start>` </br>
-* Backend: 
-1.
-2. navigate to /backend and run: `<npm start>` t</br>
-3. 
+1. navigate to `/frontend` and run: `npm start` on terminal </br>
 
-Note: npm start must be run on both 
+* Backend: 
+1. Navigate to the `/backend` folder
+2. Create an `.env` file inside and copy and paste the following code into it: 
+```
+CANVAS_API_TOKEN=
+CANVAS_API_DOMAIN=https://ubc.instructure.com/api/v1
+```
+3. Add your personal CANVAS_API_TOKEN found on canvas.
+2. Run `npm start` on terminal </br>
+
+Note: npm start must be run on 2 terminals, frontend and backend
 
